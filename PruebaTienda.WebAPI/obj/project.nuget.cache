@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8WIaXh36LVSwalHO1EGYJ95zObjG543WsDxnIxPKRd/A78EgqSkiQLVz7bKrqlIe4S0+CN94RDN28jXA0gHUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL INSPIRON\\OneDrive\\Escritorio\\PruebaTecnica\\PruebaTienda\\PruebaTienda.WebAPI\\PruebaTienda.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELL INSPIRON\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
