@@ -4,9 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using PruebaTienda.AccesoADatos;
+using PruebaTienda.EntidadesDeNegocio;
+
 namespace PruebaTienda.LogicaDeNegocios
 {
-    class CategoriaBL
+    public class CategoriaBL
     {
+        public async Task<int> CrearAsync(Categoria pCategoria)
+        {
+            return await CategoriaDAL.CrearAsync(pCategoria);
+        }
+
+        public async Task<int> ModificarAsync(Categoria pCategoria)
+        {
+            return await CategoriaDAL.ModificarAsync(pCategoria);
+        }
+
+        public async Task<int> EliminarAsync(Categoria pCategoria)
+        {
+            return await CategoriaDAL.EliminarAsync(pCategoria);
+        }
+
+        public async Task<Categoria> ObtenerPorIdAsync(Categoria pCategoria)
+        {
+            return await CategoriaDAL.ObtenerPorIdAsync(pCategoria);
+        }
+
+        public async Task<List<Categoria>> ObtenerTodosAsync()
+        {
+            return await CategoriaDAL.ObtenerTodosAsync();
+        }
+
+        public async Task<List<Categoria>> BuscarAsync(Categoria pCategoria)
+        {
+            return await CategoriaDAL.BuscarAsync(pCategoria);
+        }
     }
 }

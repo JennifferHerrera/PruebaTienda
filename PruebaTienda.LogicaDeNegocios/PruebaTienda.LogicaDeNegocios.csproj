@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTienda.AccesoADatos\PruebaTienda.AccesoADatos.csproj" />
+    <ProjectReference Include="..\PruebaTienda.EntidadesDeNegocio\PruebaTienda.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
 
 </Project>
