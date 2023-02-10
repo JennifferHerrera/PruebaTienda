@@ -1,0 +1,17 @@
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.LogicaDeNegocios.deps.json
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.LogicaDeNegocios.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\ref\PruebaTienda.LogicaDeNegocios.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.LogicaDeNegocios.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.AccesoADatos.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.AccesoADatos.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.csproj.CopyComplete
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\ref\PruebaTienda.LogicaDeNegocios.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.LogicaDeNegocios\obj\Debug\net5.0\PruebaTienda.LogicaDeNegocios.pdb

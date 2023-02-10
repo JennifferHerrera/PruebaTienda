@@ -1,0 +1,15 @@
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\PruebaTienda.AccesoADatos.deps.json
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\PruebaTienda.AccesoADatos.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\ref\PruebaTienda.AccesoADatos.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\PruebaTienda.AccesoADatos.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.AssemblyInfo.cs
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.csproj.CopyComplete
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\ref\PruebaTienda.AccesoADatos.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.AccesoADatos\obj\Debug\net5.0\PruebaTienda.AccesoADatos.pdb

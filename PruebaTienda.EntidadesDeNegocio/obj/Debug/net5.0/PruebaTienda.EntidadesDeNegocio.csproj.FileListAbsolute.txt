@@ -1,0 +1,12 @@
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.deps.json
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\bin\Debug\net5.0\ref\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\bin\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.pdb
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\ref\PruebaTienda.EntidadesDeNegocio.dll
+C:\Users\DELL INSPIRON\OneDrive\Escritorio\PruebaTecnica\PruebaTienda\PruebaTienda.EntidadesDeNegocio\obj\Debug\net5.0\PruebaTienda.EntidadesDeNegocio.pdb
